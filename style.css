@@ -29,7 +29,8 @@ hr {
     color: white;
     height: 100px;
 }
-@media (min-width: 992px) { 
 
-
+#learning :hover {
+    background-color: red;
+    cursor: grabbing;
 }
