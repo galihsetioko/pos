@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url(jumbotron.jpg);
+}
+li :hover{ 
+    color: #d2d2d2;;
+}
+.scrolled-nav-bg {
+    background-color: white;
+}
+
+.scrolled-nav-text {
+    color: black;
+    background-color: red;
+}
