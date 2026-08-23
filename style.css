@@ -1,14 +1,25 @@
+body {
+    background-color: black;
+}
+
 .jumbotron {
     background-image: url(jumbotron.jpg);
 }
 li :hover{ 
     color: #d2d2d2;;
 }
+/* .navbar {
+    transition: opacity 0.4s ease-in-out;
+} */
 .scrolled-nav-bg {
     background-color: white;
+    /* opacity: 1; */
 }
 
 .scrolled-nav-text {
     color: black;
     background-color: red;
+}
+.shadow-navbar {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0,5);
 }
